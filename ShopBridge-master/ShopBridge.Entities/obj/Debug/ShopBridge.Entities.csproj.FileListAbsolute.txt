@@ -1,0 +1,12 @@
+D:\www\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.dll
+D:\www\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.pdb
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csproj.CoreCompileInputs.cache
+D:\www\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csprojAssemblyReference.cache
+C:\Users\e5546769\Downloads\ShopBridge-master\ShopBridge-master\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.dll
+C:\Users\e5546769\Downloads\ShopBridge-master\ShopBridge-master\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.pdb
+C:\Users\e5546769\Downloads\ShopBridge-master\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csproj.AssemblyReference.cache
+C:\Users\e5546769\Downloads\ShopBridge-master\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csproj.CoreCompileInputs.cache
+C:\Users\e5546769\Downloads\ShopBridge-master\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
+C:\Users\e5546769\Downloads\ShopBridge-master\ShopBridge-master\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb
